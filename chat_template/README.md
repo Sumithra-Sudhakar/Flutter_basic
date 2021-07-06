@@ -1,16 +1,21 @@
-# chat_template
+# Chat_template
 
-A new Flutter project.
+This flutter project is a replica of a simple text messenger. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+ 
+## output:
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/23033867/124635716-5ad7e300-dea5-11eb-9c5b-b4a73c9528d6.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://user-images.githubusercontent.com/23033867/124635748-688d6880-dea5-11eb-9880-5b425461265c.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+ 
+ ## refrences:
+
+https://www.freecodecamp.org/news/build-a-chat-app-ui-with-flutter/
+
+## note:
+I have not added images in particular, you can add with the help of the reference
+
