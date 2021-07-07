@@ -4,4 +4,12 @@
  
  # output:
  
- ![image](https://user-images.githubusercontent.com/23033867/124639915-595ce980-deaa-11eb-9048-a70db6dd4789.png)
+ ## portrait view:
+  
+  ![image](https://user-images.githubusercontent.com/23033867/124714627-9dd69c80-df1f-11eb-9611-c15180a7771c.png)
+
+
+
+## landscape view:
+
+![image](https://user-images.githubusercontent.com/23033867/124714711-bba40180-df1f-11eb-95c0-0c740a4e1931.png)
